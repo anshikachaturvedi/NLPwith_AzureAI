@@ -7,11 +7,11 @@ This repository contains code and resources for implementing Natural Language Pr
 The repository currently includes the first module completed as part of the Microsoft challenge: "Analyze text with Azure AI Language."
 
 ## Features
-Language Detection: Identify the language used in text.
-Sentiment Analysis: Analyze the sentiment conveyed in text data.
-Key Phrase Extraction: Extract key phrases from text.
-Entity Recognition: Identify entities present in the text.
-Linked Entities: Identify linked entities within the text.
+- **Language Detection:** Identify the language used in text.
+- **Sentiment Analysis:** Analyze the sentiment conveyed in text data.
+- **Key Phrase Extraction:** Extract key phrases from text.
+- **Entity Recognition:** Identify entities present in the text.
+- **Linked Entities:** Identify linked entities within the text.
 
 ## Rescources
 - Microsoft Challenge: [Link](https://learn.microsoft.com/en-us/collections/qdgnhjj8o7jr?WT.mc_id=cloudskillschallenge_950cffad-678a-41ac-b1f2-cbb50504a35e)
